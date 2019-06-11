@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "983417991831",
+    "firebase_url": "https://qubit-app.firebaseio.com",
+    "project_id": "qubit-app",
+    "storage_bucket": "qubit-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983417991831:android:bbd32b18fc5e7a13",
+        "android_client_info": {
+          "package_name": "com.example.qubit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983417991831-hla28g9ap5419rh29pjl6oaukmhvpdi8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qubit",
+            "certificate_hash": "0723575d1994e9ef59fbafbbb22ea5f495d1f550"
+          }
+        },
+        {
+          "client_id": "983417991831-c3rsc5aatf7qubml5nphag5prjsagfoo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5jrWGTaFi3kqc2onwrvNB7kSc-744XKs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983417991831-c3rsc5aatf7qubml5nphag5prjsagfoo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
